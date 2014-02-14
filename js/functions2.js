@@ -1,6 +1,6 @@
 function fight(){
 
-	document.getElementById("content").innerHTML="<p>You've made the dragon angry! Now he is gonna fight with you! Now what?! Will you be using your bow, shotgun or do you want to run?</p><button onclick='fightBow()'>Use my bow</button><button onclick='fightGun()'>Use my shotgun</button><button onclick='fightRun'>Run!</button>";
+	document.getElementById("content").innerHTML="<p>You've made the dragon angry! Now he is gonna fight with you! Now what?! Will you be using your bow, shotgun or do you want to run?</p><button onclick='fightBow()'>Use my bow</button><button onclick='fightGun()'>Use my shotgun</button><button onclick='fightRun()'>Run!</button>";
 
 }
 
